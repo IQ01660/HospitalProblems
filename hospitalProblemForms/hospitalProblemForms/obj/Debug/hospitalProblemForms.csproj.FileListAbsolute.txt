@@ -1,0 +1,9 @@
+c:\users\home\documents\visual studio 2015\Projects\hospitalProblemForms\hospitalProblemForms\bin\Debug\hospitalProblemForms.exe.config
+c:\users\home\documents\visual studio 2015\Projects\hospitalProblemForms\hospitalProblemForms\bin\Debug\hospitalProblemForms.exe
+c:\users\home\documents\visual studio 2015\Projects\hospitalProblemForms\hospitalProblemForms\bin\Debug\hospitalProblemForms.pdb
+c:\users\home\documents\visual studio 2015\Projects\hospitalProblemForms\hospitalProblemForms\obj\Debug\hospitalProblemForms.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2015\Projects\hospitalProblemForms\hospitalProblemForms\obj\Debug\hospitalProblemForms.Form1.resources
+c:\users\home\documents\visual studio 2015\Projects\hospitalProblemForms\hospitalProblemForms\obj\Debug\hospitalProblemForms.Properties.Resources.resources
+c:\users\home\documents\visual studio 2015\Projects\hospitalProblemForms\hospitalProblemForms\obj\Debug\hospitalProblemForms.csproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2015\Projects\hospitalProblemForms\hospitalProblemForms\obj\Debug\hospitalProblemForms.exe
+c:\users\home\documents\visual studio 2015\Projects\hospitalProblemForms\hospitalProblemForms\obj\Debug\hospitalProblemForms.pdb
